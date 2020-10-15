@@ -7,13 +7,13 @@ Egy meccs:
 - Adattagok vagy tulajdonságok:
   - Hazai string
   - Idegen string
-  - HPont int (hazai pontok)
-  - IPont int (idegen pontok)
-  - Hely string
-  - Ido string
+  - Hazai_pont int (hazai pontok)
+  - Idegen_pont int (idegen pontok)
+  - Helyszin string
+  - Idopont string
 - Konstruktor:
   - Meccs(string, string, int, int, string, string)
-  - Hazai, Idegen, HPont, IPont, Hely, Ido
+  - Hazai, Idegen, Hazai_pont, Idegen_pont, Helyszin, Idopont
 
 Meccsek eltárolása:
 - Lista --> Meccs objektumok tárolására
